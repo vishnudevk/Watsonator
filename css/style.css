@@ -716,23 +716,24 @@ body {
 	clear:both;
 	color:#fff;
 	border:0;
-	background:rgba(0,0,0,0.2);
+	background:rgba(0,0,0,0.6);
 }
 .funfacts .icon a {
 	color:#fff;
 }
 .funfacts .counter {
 	font-size:70px;
-	color:#fff;
+	color:#555;
 	font-weight:700;
 }
 .funfacts h4 {
 	text-transform:uppercase;
-	font-size:15px;
-	margin:22px 0 0;
+	font-size:30px;
+    font-weight: bold;
+	margin:5px 0 0;
 	position:relative;
 	letter-spacing:1px;
-	color: #fff;
+	color: #555;
 }
 /*=========================*/
 /* Pricing */
