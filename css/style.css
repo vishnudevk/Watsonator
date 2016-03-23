@@ -1077,3 +1077,8 @@ input.error,textarea.error {
 		margin-top: 30px;
 	}
 }
+
+
+.teambox > .view-overlay {
+    height: 14.22em;
+}
