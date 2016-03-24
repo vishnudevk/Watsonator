@@ -1078,7 +1078,19 @@ input.error,textarea.error {
 	}
 }
 
-
+/*Used to adjust team box*/
 .teambox > .view-overlay {
-    height: 14.22em;
+    height: 9em;
+}
+
+.teambox {
+    height: 17em;
+}
+
+.img-responsive{
+    margin: 0 auto;
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+        
 }
